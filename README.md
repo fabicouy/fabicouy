@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabicouy
 - 👀 I’m interested in frontend web developing
-- 🌱 I’m currently learning Javascript + Vue + React
+- 🌱 I’m currently learning Javascript + React + Next JS
 - 💞️ I’m looking to collaborate on projects that hepl me to grow up!
 - 📫 How to reach me: fabio@fabico.uy
